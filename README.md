@@ -64,8 +64,7 @@ git status
 git pull
 
 4. Add a new line below: \
-WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
-
+Getting prescribed "extra time" by doctors and physcologists for supposed learning disabilities is becoming too accessible and ruining the schooling system. 
 5. Add, commit, and push your changes:
   - git add README.md
   - git commit -m "Add controversial opinion"
